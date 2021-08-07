@@ -12,6 +12,22 @@
         "teawaffles": "/proxy/api/imgur/chapter/2L6cMRT/"
       },
       "last_updated": "1624403202"
+    },
+    "60": {
+      "title": "The Adventure of the Empty Hearts, Act 4",
+      "volume": "15",
+      "groups": {
+        "teawaffles": "/proxy/api/imgur/chapter/r1JJx5Q/"
+      },
+      "last_updated": "1628377849"
+    },
+    "61": {
+      "title": "The Adventure of the Empty Hearts, Act 5",
+      "volume": "",
+      "groups": {
+        "teawaffles": "/proxy/api/imgur/chapter/amyK7TE/"
+      },
+      "last_updated": "1628377849"
     }
   }
 }
