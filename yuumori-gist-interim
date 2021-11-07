@@ -1,6 +1,6 @@
 {
   "title": "Moriarty the Patriot",
-  "description": "An interim Moriarty the Patriot scanlation while lqlime catches up. Please do not upload on Mangadex!\n\nIf the chapters fail to load, you can find the direct Imgur links at: https://teawaffles.tumblr.com/scanlations",
+  "description": "An interim Moriarty the Patriot scanlation. Please do not upload on Mangadex!\n\nIf the chapters fail to load, you can find the direct Imgur links at: https://teawaffles.tumblr.com/scanlations",
   "artist": "Hikaru Miyoshi",
   "author": "Takeuchi Ryousuke",
   "cover": "https://i.imgur.com/aN5h60Q.jpg",
@@ -23,7 +23,7 @@
     },
     "61": {
       "title": "The Adventure of the Empty Hearts, Act 5",
-      "volume": "",
+      "volume": "16",
       "groups": {
         "teawaffles": "/proxy/api/imgur/chapter/PjyMsTw/"
       },
@@ -31,7 +31,7 @@
     },
     "62": {
       "title": "The Adventure of the Empty Hearts, Act 6",
-      "volume": "",
+      "volume": "16",
       "groups": {
         "teawaffles": "/proxy/api/imgur/chapter/G9RJMOt/"
       },
@@ -39,7 +39,7 @@
     },
     "63": {
       "title": "The Adventure of the Empty Hearts, Act 7",
-      "volume": "",
+      "volume": "16",
       "groups": {
         "teawaffles": "/proxy/api/imgur/chapter/uCRfsoG/"
       },
