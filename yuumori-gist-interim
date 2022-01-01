@@ -52,6 +52,22 @@
         "teawaffles": "/proxy/api/imgur/chapter/nt9Y5vq/"
       },
       "last_updated": "1638226943"
+    },
+    "64.5": {
+      "title": "Volume 16 Extras",
+      "volume": "16",
+      "groups": {
+        "teawaffles": "/proxy/api/imgur/chapter/LDbWQ6S/"
+      },
+      "last_updated": "1641080803"
+    },
+    "65": {
+      "title": "The Adventure of the Empty Hearts, Act 9",
+      "volume": "17",
+      "groups": {
+        "teawaffles": "/proxy/api/imgur/chapter/RWOia6M/"
+      },
+      "last_updated": "1641080803"
     }
   }
 }
