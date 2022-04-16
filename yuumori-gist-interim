@@ -92,6 +92,22 @@
         "teawaffles": "/proxy/api/imgur/chapter/rW9nYwm/"
       },
       "last_updated": "1648167701"
+    },
+    "68.5": {
+      "title": "Volume 17 Extras",
+      "volume": "17",
+      "groups": {
+        "teawaffles": "/proxy/api/imgur/chapter/YwqDuzB/"
+      },
+      "last_updated": "1650150461"
+    },
+    "69": {
+      "title": "The Valley of Fellows, Act 3",
+      "volume": "18",
+      "groups": {
+        "teawaffles": "/proxy/api/imgur/chapter/Z9iYubW/"
+      },
+      "last_updated": "1650150461"
     }
   }
 }
