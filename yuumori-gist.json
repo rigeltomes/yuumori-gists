@@ -4,5 +4,110 @@
   "artist": "Hikaru Miyoshi",
   "author": "Takeuchi Ryousuke",
   "cover": "https://i.imgur.com/aN5h60Q.jpg",
-  "chapters": {}
+  "chapters": {
+    "53": {
+      "title": "William's letter to Sherlock - The Final Problem, Act 6",
+      "volume": "14",
+      "groups": {
+        "teawaffles": "/proxy/api/imgur/chapter/2L6cMRT/"
+      },
+      "last_updated": "1624403202"
+    },
+    "60": {
+      "title": "The Adventure of the Empty Hearts, Act 4",
+      "volume": "15",
+      "groups": {
+        "teawaffles": "/proxy/api/imgur/chapter/ZmrkRjS/"
+      },
+      "last_updated": "1628853299"
+    },
+    "61": {
+      "title": "The Adventure of the Empty Hearts, Act 5",
+      "volume": "16",
+      "groups": {
+        "teawaffles": "/proxy/api/imgur/chapter/PjyMsTw/"
+      },
+      "last_updated": "1628853299"
+    },
+    "62": {
+      "title": "The Adventure of the Empty Hearts, Act 6",
+      "volume": "16",
+      "groups": {
+        "teawaffles": "/proxy/api/imgur/chapter/G9RJMOt/"
+      },
+      "last_updated": "1631035960"
+    },
+    "63": {
+      "title": "The Adventure of the Empty Hearts, Act 7",
+      "volume": "16",
+      "groups": {
+        "teawaffles": "/proxy/api/imgur/chapter/uCRfsoG/"
+      },
+      "last_updated": "1634254000"
+    },
+    "64": {
+      "title": "The Adventure of the Empty Hearts, Act 8",
+      "volume": "16",
+      "groups": {
+        "teawaffles": "/proxy/api/imgur/chapter/nt9Y5vq/"
+      },
+      "last_updated": "1638226943"
+    },
+    "64.5": {
+      "title": "Volume 16 Extras",
+      "volume": "16",
+      "groups": {
+        "teawaffles": "/proxy/api/imgur/chapter/LDbWQ6S/"
+      },
+      "last_updated": "1641080803"
+    },
+    "65": {
+      "title": "The Adventure of the Empty Hearts, Act 9",
+      "volume": "17",
+      "groups": {
+        "teawaffles": "/proxy/api/imgur/chapter/RWOia6M/"
+      },
+      "last_updated": "1641080803"
+    },
+    "66": {
+      "title": "Unforgiven & Thanksgiving",
+      "volume": "17",
+      "groups": {
+        "teawaffles": "/proxy/api/imgur/chapter/wOE2fSI/"
+      },
+      "last_updated": "1642110827"
+    },
+    "67": {
+      "title": "The Valley of Fellows, Act 1",
+      "volume": "17",
+      "groups": {
+        "teawaffles": "/proxy/api/imgur/chapter/lbtkac9/"
+      },
+      "last_updated": "1650418845"
+    },
+    "68": {
+      "title": "The Valley of Fellows, Act 2",
+      "volume": "17",
+      "groups": {
+        "teawaffles": "/proxy/api/imgur/chapter/rW9nYwm/"
+      },
+      "last_updated": "1648167701"
+    },
+    "68.5": {
+      "title": "Volume 17 Extras",
+      "volume": "17",
+      "groups": {
+        "teawaffles": "/proxy/api/imgur/chapter/YwqDuzB/"
+      },
+      "last_updated": "1650150461"
+    },
+    "69": {
+      "title": "The Valley of Fellows, Act 3",
+      "volume": "18",
+      "groups": {
+        "teawaffles": "/proxy/api/imgur/chapter/Z9iYubW/"
+      },
+      "last_updated": "1650150461"
+    }
+  }
 }
