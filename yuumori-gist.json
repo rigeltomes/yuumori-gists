@@ -5,6 +5,30 @@
   "author": "Takeuchi Ryousuke",
   "cover": "https://i.imgur.com/aN5h60Q.jpg",
   "chapters": {
+    "3.6": {
+      "title": "Volume 1 Animate Bonus Booklet",
+      "volume": "1",
+      "groups": {
+        "teawaffles": "/proxy/api/imgur/chapter/ZjUvNQB/"
+      },
+      "last_updated": "1661240786"
+    },
+    "7.6": {
+      "title": "Volume 2 Kinokuniya Bonus Leaflet",
+      "volume": "2",
+      "groups": {
+        "teawaffles": "/proxy/api/imgur/chapter/EKIBHnX/"
+      },
+      "last_updated": "1661240786"
+    },
+    "15.6": {
+      "title": "Volume 4 Kinokuniya Bonus Leaflet",
+      "volume": "4",
+      "groups": {
+        "teawaffles": "/proxy/api/imgur/chapter/HDsO31M/"
+      },
+      "last_updated": "1661240786"
+    },
     "53": {
       "title": "William's letter to Sherlock - The Final Problem, Act 6",
       "volume": "14",
