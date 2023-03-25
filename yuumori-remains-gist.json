@@ -1,0 +1,17 @@
+{
+  "title": "Moriarty the Patriot: The Remains",
+  "description": "The manga adaptation of the Moriarty the Patriot light novels. Chapters are released simultaneously both here and on Mangadex. For scanlation updates, as well as all three light novel translations, do check out https://teawaffles.tumblr.com |ω･)ﾉ",
+  "artist": "Miyoshi Hikaru",
+  "author": "Saita Yosuke",
+  "cover": "https://i.imgur.com/JWa2me0.jpg",
+  "chapters": {
+    "1": {
+      "title": "Play of the Lord of Crime, Act 1",
+      "volume": "1",
+      "last_updated": "1679714522",
+      "groups": {
+        "teawaffles": "/proxy/api/imgur/chapter/U4sRR5i"
+      }
+    }
+  }
+}
