@@ -44,6 +44,22 @@
       "groups": {
         "teawaffles": "/proxy/api/imgur/chapter/r1SXNHe"
       }
+    },
+    "5.6": {
+      "title": "Volume 1 Bonus Manga",
+      "volume": "1",
+      "last_updated": "1693674615",
+      "groups": {
+        "teawaffles": "/proxy/api/imgur/chapter/bhqsRjz"
+      }
+    },
+    "6": {
+      "title": "The Girl Gazing at the Rainbow, Act 2",
+      "volume": "2",
+      "last_updated": "1693674615",
+      "groups": {
+        "teawaffles": "/proxy/api/imgur/chapter/4kzUPZn"
+      }
     }
   }
 }
